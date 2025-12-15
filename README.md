@@ -3,4 +3,4 @@
 🔗 https://www.mjmdesignz.com
 
 Front-End Experience Designer specializing in enterprise, healthcare, and UX-driven web platforms.  
-Primarily building custom WordPress experiences using Bootstrap-based layouts and scalable SCSS architectures.
+Primarily building custom WordPress experiences using ACF-driven, component-based architectures with Bootstrap layouts and scalable SCSS.
