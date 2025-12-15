@@ -3,4 +3,4 @@
 🔗 https://www.mjmdesignz.com
 
 Front-End Experience Designer specializing in enterprise, healthcare, and UX-driven web platforms.  
-Primary stack includes Bootstrap-based layouts and scalable SCSS architectures.
+Primarily building custom WordPress experiences using Bootstrap-based layouts and scalable SCSS architectures.
