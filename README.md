@@ -3,4 +3,4 @@
 🔗 https://www.mjmdesignz.com
 
 Front-End Experience Designer specializing in enterprise, healthcare, and UX-driven web platforms.  
-Primarily building custom WordPress experiences using ACF-driven, component-based architectures on Understrap, with Bootstrap layouts and scalable SCSS.
+Primarily building custom WordPress experiences using Advanced Custom Fields (ACF), component-based architectures on Understrap, with Bootstrap layouts and scalable SCSS.
